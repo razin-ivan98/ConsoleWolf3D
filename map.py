@@ -1,0 +1,15 @@
+map = [
+    "oooooooooooooooooooo",
+    "o              44  o",
+    "o   555555555  5   o",
+    "o       5          o",
+    "o     5555   6     o",
+    "o        5 55555   o",
+    "o   5555           o",
+    "o               55 o",
+    "o       555555     o",
+    "o                  o",
+    "o                  o",
+    "o                  o",
+    "oooooooooooooooooooo",
+]
